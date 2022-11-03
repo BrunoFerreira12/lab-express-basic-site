@@ -1,0 +1,15 @@
+
+h1 {
+    color: rgb(102, 77, 155);
+}
+body {
+background-color: aquamarine;
+}
+
+a{
+    padding: 20px;
+    background-color: azure;
+}
+p{
+    margin: 30px;
+}
